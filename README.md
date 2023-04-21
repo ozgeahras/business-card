@@ -1,13 +1,62 @@
-# cof10481ab74517d63b08df7a
+# Business Card
 
-## About Scrimba
+## Tech Stack
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+**Client:** HTML, CSS
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Overview
 
-Happy Coding!
+- Responsive Design with CSS
+
+### Links & Demo
+
+- [Github Repo](https://github.com/ozgeahras/business-card)
+- [Demo](https://ozgeahras.github.io/business-card/)
+
+## Author
+
+- [@ozgeahras](https://github.com/ozgeahras)
+
+## Source
+
+- https://scrimba.com/learn/frontend
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ozgeahras/business-card.git
+```
+
+Go to the project directory
+
+```bash
+  cd ..business-card
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the app
+
+```bash
+npm run start
+```
+
+## Screenshots
+
+![App Screenshot](https://github.com/ozgeahras/business-card/blob/master/images/screenshot.png)
+
+## About Me
+
+I'm frontend developer in Istanbul/Turkey.
+
+👩‍💻 I'm currently working on React.js
+
+## 🛠 Skills
+
+Vanilla JS, React.js, ES6+, CSS, HTML
